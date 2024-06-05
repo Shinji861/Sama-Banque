@@ -1,0 +1,22 @@
+.titre_connexion{
+text-align: center;
+}
+.container{background-color: #5CA5D9;}
+.rectangle1{border: 2px solid black;
+width: 33%;
+height: 30px;
+margin: auto;
+border-radius: 10px;
+}
+::placeholder{color: lightgray;}
+.zone-texte{width: 99%;
+height: 25px;
+border-radius: 10px;}
+.btn{
+    width: 20%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #5CA5D9;
+    color: white;
+    margin-left: 40%;
+}
